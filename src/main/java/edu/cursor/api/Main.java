@@ -24,7 +24,7 @@ public class Main {
         list.addAll(group2.getStudentList());
         list.addAll(group3.getStudentList());
         utilityClass.printAllStudents(list);
-
+        System.out.println("sada");
 
 
     }
