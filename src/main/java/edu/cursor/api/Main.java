@@ -25,20 +25,6 @@ public class Main {
         list.addAll(group3.getStudentList());
         utilityClass.printAllStudents(list);
 
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
-        System.out.println("dasdada");
 
 
     }
