@@ -31,6 +31,14 @@ public class Main {
         System.out.println("dasdada");
         System.out.println("dasdada");
         System.out.println("dasdada");
+        System.out.println("dasdada");
+        System.out.println("dasdada");
+        System.out.println("dasdada");
+        System.out.println("dasdada");
+        System.out.println("dasdada");
+        System.out.println("dasdada");
+        System.out.println("dasdada");
+        System.out.println("dasdada");
 
 
     }
