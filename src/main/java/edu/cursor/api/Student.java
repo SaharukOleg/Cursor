@@ -10,12 +10,12 @@ import lombok.ToString;
 @EqualsAndHashCode
 @ToString
 public class Student {
-    private String firtsName;
+    private String firstName;
     private String lastName;
     private String type;
 
-    public Student(String firtsName, String lastName, String type) {
-        this.firtsName = firtsName;
+    public Student(String firstName, String lastName, String type) {
+        this.firstName = firstName;
         this.lastName = lastName;
         this.type = type;
     }

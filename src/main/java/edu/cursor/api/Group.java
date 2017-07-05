@@ -13,19 +13,19 @@ import java.util.List;
 @EqualsAndHashCode
 @ToString
 public class Group {
-
+    private String name;
     private Supervisor supervisor;
     private List<Student> studentList;
 
-
-    public Group(Supervisor supervisor, List<Student> studentList) {
-
+    public Group(String name, Supervisor supervisor, List<Student> studentList) {
+        this.name = name;
         this.supervisor = supervisor;
         this.studentList = studentList;
-
     }
 
 
-
 }
+
+
+
 
